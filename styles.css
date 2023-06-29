@@ -39,6 +39,7 @@ ul a {
 
 .imagen {
     height: 300px;
+    border-radius: 30px;
 }
 
 .hero-info {
